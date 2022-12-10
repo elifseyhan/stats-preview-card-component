@@ -78,12 +78,13 @@ h1, h2{
     gap: 10px;
 }
 
-.infos p{
+.infos span{
     text-transform: uppercase;
     font-family: var(--lexend-deca);
     font-size: 12px;
     letter-spacing: 1px;
     color: var(--stat-heading);
+    display: block;
 }
 
 .bg-overlay{
